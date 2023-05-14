@@ -10,4 +10,4 @@ Credits go to Jan for a LOT of the work done on the GUI, tysm.
 
 Note that macscript GUI is still in heavy development so a lot of issues are there and we know about them
 
-if you wanna download it beta 1 is over in the releases tab
+Beta releases are in the releases tab.
