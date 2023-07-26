@@ -53,7 +53,7 @@ struct ContentView: View {
             }
             
             Text("We are not responsible for any damage done to your devices while using this tool.")
-            Text("Made by Mac and Jan.")
+            Text("Made by Mac and Ainara.")
         }
         .padding()
     }
