@@ -2,7 +2,7 @@
 //  UserFlowView.swift
 //  macscript
 //
-//  Created by Jan Garcia on 5/5/23.
+//  Created by Ainara Garcia on 5/5/23.
 //
 
 import SwiftUI

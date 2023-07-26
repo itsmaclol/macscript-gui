@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  macscript
 //
-//  Created by Nara Garcia on 6/5/23.
+//  Created by Ainara Garcia on 6/5/23.
 //
 
 import Foundation

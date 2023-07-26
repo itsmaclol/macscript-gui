@@ -2,7 +2,7 @@
 //  Palera1nView.swift
 //  macscript
 //
-//  Created by Nara Garcia on 5/5/23.
+//  Created by Ainara Garcia on 5/5/23.
 //
 
 import SwiftUI
