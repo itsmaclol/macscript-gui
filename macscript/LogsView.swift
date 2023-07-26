@@ -2,7 +2,7 @@
 //  jbview.swift
 //  macscript
 //
-//  Created by Jan Garcia on 5/5/23.
+//  Created by Nara Garcia on 5/5/23.
 //
 
 import SwiftUI
