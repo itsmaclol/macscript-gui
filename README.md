@@ -4,7 +4,7 @@ This project is [macscript](https://github.com/itsmaclol/macscript) with a Graph
 
 macOS Only (we might work on a linux gui soon idk)
 
-Credits go to Jan for a LOT of the work done on the GUI, tysm.
+Credits go to Nara for a LOT of the work done on the GUI, tysm.
 
 # Download
 
